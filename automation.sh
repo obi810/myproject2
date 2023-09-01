@@ -1,1 +1,1 @@
-echo "my lord is good"!!!
+echo "my lord is good"!!
